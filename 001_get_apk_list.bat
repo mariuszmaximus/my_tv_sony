@@ -1,0 +1,1 @@
+adb shell pm list packages -f > _list.txt
